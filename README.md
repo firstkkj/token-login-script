@@ -1,1 +1,1 @@
-# token-login-script
+Script de login pela token para discord
